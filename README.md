@@ -1,3 +1,3 @@
-# react-gk5nma
+# react-useState-hook
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-gk5nma)
+Form Reset and change input values using useState hook and manage state
